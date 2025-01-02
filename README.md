@@ -1,5 +1,5 @@
 # digixva1
-Elektron Style Interface for the XVA1
+Elektron Style Performance Interface for the XVA1 - https://www.futur3soundz.com/xva1-synthesizer/
 Hardware integration with the extended XFM2 pcb project - https://github.com/bzeiss/xfm2-pcbs/tree/main/extended
 
 Design goals:
